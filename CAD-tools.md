@@ -3,7 +3,7 @@
 ### Open source 
 #### GUI
 ##### FreeCAD
-[Site](https://www.freecadweb.org/)
+[Site](https://freecad.org)
 [Github](https://github.com/FreeCAD/FreeCAD)
 ![](images/freecad.jpg)
 

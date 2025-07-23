@@ -56,7 +56,7 @@ https://github.com/ryannining/karyacnc
 ![](images/PyCAM.png)
 
 #### FreeCAD Path Workbench
-[Site](https://wiki.freecadweb.org/Path_Workbench)
+[Site](https://wiki.freecad.org/Path_Workbench)
 ![](images/FreeCADPath.png)
 
 #### Blender CAM
